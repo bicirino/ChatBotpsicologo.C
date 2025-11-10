@@ -1,4 +1,4 @@
-# ChatBot psicólogo
+# ChatBot psicólogo 🧠
 
 O código do ChatBot psicólogo, detecta palavras chaves de um "desabafo" do usuário e, em seguida, retorna com conselhos com base científica sobre seu problema ; 
 Por exemplo: desabafo usuário: "[...] esta semana fui demitido e estou muito <u>triste</u> [...] " -> o programa dá conselhos sobre tristeza ; 
